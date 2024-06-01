@@ -110,3 +110,4 @@ c:\Users\Ashish\CICD\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\net8.0\Swashbuckle
 c:\Users\Ashish\CICD\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 c:\Users\Ashish\CICD\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
 c:\Users\Ashish\CICD\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\net8.0\SimpleAPI.pdb
+C:\Users\Ashish\CICD\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.sourcelink.json

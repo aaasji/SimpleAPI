@@ -31,3 +31,4 @@ C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\refint\SimpleAPI.d
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.pdb
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.genruntimeconfig.cache
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\ref\SimpleAPI.dll
+C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.sourcelink.json
