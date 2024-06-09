@@ -21,7 +21,7 @@ namespace SimpleAPI
         // GET: api/values/5
         public string Get(int id)
         {
-            return "Ashish";
+            return "SanjayArora";
         }
 
         // POST: api/values
