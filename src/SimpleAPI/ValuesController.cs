@@ -13,33 +13,22 @@ namespace SimpleAPI
         public class ValuesController : ControllerBase
          {
         // GET: api/values
-          [HttpGet]
-        public IEnumerable<string> Get()
+        [HttpGet]
+        [Route("List")]
+        public IEnumerable<string> List()
         {
             return new string[] { "Sanjay", "Arora" };
         }
 
         // GET: api/values/5
         [HttpGet]
+        [Route("Get")]
         public string Get(int id)
         {
             return "AshishArora";
         }
 
-        // POST: api/values
-        // public void Post([FromBody]string value)
-        // {
-        // }
-
-        // // PUT: api/values/5
-        // public void Put(int id, [FromBody]string value)
-        // {
-        // }
-
-        // // DELETE: api/values/5
-        // public void Delete(int id)
-        // {
-        // }
+       
     }
     
 }

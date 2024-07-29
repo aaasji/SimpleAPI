@@ -17,7 +17,6 @@ C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.Assembly
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.csproj.CoreCompileInputs.cache
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.sourcelink.json
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Ashish\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAPI.Microsoft.AspNetCore.StaticWebAssets.props
